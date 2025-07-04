@@ -59,7 +59,7 @@ The e-commerce industry thrives on the promise of timely deliveries. However, th
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/ecommerce-shipping-prediction.git
+    git clone https://github.com/Amithav7/ecommerce-shipping-prediction.git
     cd ecommerce-shipping-prediction
     ```
 2. Install the required libraries:
