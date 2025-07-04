@@ -134,4 +134,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgements
 - Kaggle for the dataset
 - Team members for their contributions
+  - Amithav Mrithyunjay R
+  - Gowtham S
+  - Madhu Varshini S
+  - Ramakrishnan S
 
